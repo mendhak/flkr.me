@@ -10,7 +10,7 @@
     "compression": "^1.0.8",
     "cookie-parser": "~1.0.1",
     "debug": "~0.7.4",
-    "ejs": "~0.8.5",
+    "ejs": "~2.5.5",
     "express": "~4.2.0",
     "flickrapi": "^0.3.23",
     "memcached": "^0.2.8",
